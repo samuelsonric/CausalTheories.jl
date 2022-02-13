@@ -1,0 +1,7 @@
+name = "CausalTheories"
+uuid = "4710c140-7539-41aa-8f61-628bac5e39c4"
+authors = ["samuelsonric <samuelson.rick@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Catlab = "134e5e36-593f-5add-ad60-77f754baafbe"
