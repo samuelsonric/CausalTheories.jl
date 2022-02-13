@@ -14,12 +14,12 @@ g = @acset Graphs.Graph begin
 end
 ```
 
-![network]("./img/network.svg")
+![network](/img/network.svg)
 ```julia
 to_graphviz(g; node_labels=true)
 ```
 
-![diagram]("./img/diagram.svg")
+![diagram](/img/diagram.svg)
 ```julia
 to_graphviz(causalconditional(g))
 ```
